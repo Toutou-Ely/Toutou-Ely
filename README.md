@@ -4,7 +4,7 @@ Français :
 
 Bonjour! Je m'appelle Toutou Ely et je suis actuellement étudiante en deuxième année de Data Science à l'IUP Nouakchott (UNA).
 
-Compétances : 
+Compétances :  
  - R : Analyse statistique et visualisation de données.
  - Python : Programmation, manipulation de données avec pandas, numpy et matplotlib.
  - SQL :  Gestion et manipulation de bases de données relationnelles.
